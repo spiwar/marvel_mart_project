@@ -8,6 +8,7 @@ We will analyze the csv file called MM_Sales.csv, and provide both general and d
 
 ## Data Description:
 Marvel Mart has been providing both online and offline sales of a variety of  products for many years. The provide services to countries all over the world and have stores in many countries. Marvel Mart divides their order up by an alphabetical priority labeling system: 
+
 C: Critical (most essential to be delivered quickly and accurately) 
 
 H: High 
@@ -16,7 +17,9 @@ M: Medium
 
 L: Low 
 
+
 There are several columns of data for sales: 
+
 
 Unit Price: money collected for sale of 1 unit 
 
