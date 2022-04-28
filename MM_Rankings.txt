@@ -1,0 +1,32 @@
+Countries Most Sale Transactions: 
+Trinidad and Tobago: 321 
+Guinea: 318 
+Cape Verde: 314 
+Maldives: 311 
+Finland: 310 
+Democratic Republic of the Congo: 308 
+Samoa : 306 
+Malta: 305 
+China: 303 
+South Sudan: 302 
+The country we should build our shipping center is Cape Verde because it has the 3rd highest number of transactions,
+but no shipping center (unlike Trinidad and Tobago, Guinea, and Maldives) 
+
+Sales Channels: 
+Offline: 19788 
+Online: 30183 
+We do more Online sales.
+ 
+Order Priority: 
+C: 5012 
+H: 15094 
+L: 9984 
+M: 19881 
+We do more M order priorities.
+ 
+Highest Selling Items: 
+Cosmetics: 3638407966.750004 
+Household: 3401180998.060007 
+Office Supplies: 2605440187.5 
+We profited from Cosmetics sales the most.
+ 
